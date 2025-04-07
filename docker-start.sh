@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bash
 
 # Clean out temporary files from bind mount and logs
 rm -rf ./tmp/* ./log/*
